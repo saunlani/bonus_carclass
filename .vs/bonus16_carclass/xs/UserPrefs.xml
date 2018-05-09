@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{54487E9C-0160-4D3D-99DA-F8632FE4C22C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bonus_carclass/Program.cs">
+    <Files>
+      <File FileName="bonus_carclass/Program.cs" Line="10" Column="2" />
+      <File FileName="bonus_carclass/Car.cs" Line="29" Column="2" />
+      <File FileName="bonus_carclass/Validator.cs" Line="2" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.bonus16__carclass PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
